@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://my.netscape.com/rdf/simple/0.9/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel>
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+</channel>
+<image>
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/xml" href="http://rss.slashdot.org/Slashdot/slashdot/to" /><feedburner:info uri="slashdot/slashdot/to" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+<title>Samsung is Setting Up Note 7 Exchange Booths at Airports Around the World</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/mE7bKcrVJWE/samsung-is-setting-up-note-7-exchange-booths-at-airports-around-the-world</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/mE7bKcrVJWE" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://hardware.slashdot.org/story/16/10/18/1544258/samsung-is-setting-up-note-7-exchange-booths-at-airports-around-the-world?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Netflix's Big Bet on Original Shows Finally Seen Paying Off</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/TvWEPcH3oOo/netflixs-big-bet-on-original-shows-finally-seen-paying-off</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/TvWEPcH3oOo" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://entertainment.slashdot.org/story/16/10/18/1525223/netflixs-big-bet-on-original-shows-finally-seen-paying-off?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Windows is the Most Open Platform There is, Says Satya Nadella</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/MkfpyabmQiw/windows-is-the-most-open-platform-there-is-says-satya-nadella</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/MkfpyabmQiw" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://tech.slashdot.org/story/16/10/18/1514244/windows-is-the-most-open-platform-there-is-says-satya-nadella?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Americans Work 25% More Than Europeans, Study Finds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/3J23SwxEycE/americans-work-25-more-than-europeans-study-finds</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/3J23SwxEycE" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://news.slashdot.org/story/16/10/18/156234/americans-work-25-more-than-europeans-study-finds?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Say Hello To Branded Internet Addresses</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/7FG5DRySl2I/say-hello-to-branded-internet-addresses</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/7FG5DRySl2I" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://tech.slashdot.org/story/16/10/18/1443215/say-hello-to-branded-internet-addresses?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Millimeter-wave 5G Modem Coming Mid-2018 With 5Gbps Peak Download</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/saG7Us2eLvo/millimeter-wave-5g-modem-coming-mid-2018-with-5gbps-peak-download</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/saG7Us2eLvo" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://tech.slashdot.org/story/16/10/18/1412220/millimeter-wave-5g-modem-coming-mid-2018-with-5gbps-peak-download?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>1 In 2 Samsung Galaxy Note 7 Owners To Switch To iPhone 7, Says Analyst</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/X0FAQCF4CsU/1-in-2-samsung-galaxy-note-7-owners-to-switch-to-iphone-7-says-analyst</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/X0FAQCF4CsU" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://mobile.slashdot.org/story/16/10/18/0259224/1-in-2-samsung-galaxy-note-7-owners-to-switch-to-iphone-7-says-analyst?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Venus May Have Been the First Habitable Planet In Our Solar System, Study Suggests</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/a-IJw3fEbMY/venus-may-have-been-the-first-habitable-planet-in-our-solar-system-study-suggests</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/a-IJw3fEbMY" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://science.slashdot.org/story/16/10/17/2121215/venus-may-have-been-the-first-habitable-planet-in-our-solar-system-study-suggests?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Orbital ATK Returns To Flight With Successful Antares Launch To Space Station</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/wzZ707fwutM/orbital-atk-returns-to-flight-with-successful-antares-launch-to-space-station</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/wzZ707fwutM" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://news.slashdot.org/story/16/10/18/0350240/orbital-atk-returns-to-flight-with-successful-antares-launch-to-space-station?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Anti-Defamation League and Pepe the Frog's Creator Are Teaming Up To Save Pepe From Hate-Symbol Status</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/LH87leOtAcM/anti-defamation-league-and-pepe-the-frogs-creator-are-teaming-up-to-save-pepe-from-hate-symbol-status</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/LH87leOtAcM" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://politics.slashdot.org/story/16/10/17/2320209/anti-defamation-league-and-pepe-the-frogs-creator-are-teaming-up-to-save-pepe-from-hate-symbol-status?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Project Include Drops Y Combinator As Peter Thiel Pledges $1.25 Million To Trump</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/X7IAk-Fa4iw/project-include-drops-y-combinator-as-peter-thiel-pledges-125-million-to-trump</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/X7IAk-Fa4iw" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://politics.slashdot.org/story/16/10/17/2251218/project-include-drops-y-combinator-as-peter-thiel-pledges-125-million-to-trump?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Razer Acquires THX, the Audio Pioneer That George Lucas Started</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/-3pjeQ-iHJ0/razer-acquires-thx-the-audio-pioneer-that-george-lucas-started</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/-3pjeQ-iHJ0" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://news.slashdot.org/story/16/10/17/2326250/razer-acquires-thx-the-audio-pioneer-that-george-lucas-started?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>The Linux Foundation Helps Launch the JS Foundation</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/3sM789J4ZtQ/the-linux-foundation-helps-launch-the-js-foundation</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/3sM789J4ZtQ" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://linux.slashdot.org/story/16/10/17/2227221/the-linux-foundation-helps-launch-the-js-foundation?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>It's Entirely Reasonable For Police To Swipe a Suspicious Gift Card, Says Court</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/fLfNWM45egM/its-entirely-reasonable-for-police-to-swipe-a-suspicious-gift-card-says-court</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/fLfNWM45egM" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://yro.slashdot.org/story/16/10/17/2152218/its-entirely-reasonable-for-police-to-swipe-a-suspicious-gift-card-says-court?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item>
+<title>Ethiopia's State of Emergency Makes Posting To Facebook a Crime</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/to/~3/lOV8138lQ-4/ethiopias-state-of-emergency-makes-posting-to-facebook-a-crime</link>
+<description>&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/to/~4/lOV8138lQ-4" height="1" width="1" alt=""/&gt;</description><feedburner:origLink>https://yro.slashdot.org/story/16/10/17/2020225/ethiopias-state-of-emergency-makes-posting-to-facebook-a-crime?utm_source=rss0.9mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput>
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

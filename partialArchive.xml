@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!--  RSS generated Wed, 19 Dec 2012 06:03:22 EST -->
+<rss version='2.0' 
+ xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' 
+ xmlns:conversationsNetwork='http://conversationsnetwork.org/rssNamespace-1.0/'
+ xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+ xmlns:media='http://search.yahoo.com/mrss/'>
+  <channel>
+    <title>The Conversations Network Complete Network Partial Archive Feed with Thumbnails</title>
+    <itunes:author>The Conversations Network</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>The Conversations Network</itunes:name>
+      <itunes:email>webmaster@conversationsnetwork.org (The Conversations Network)</itunes:email>
+    </itunes:owner>
+    <link>http://www.conversationsnetwork.org/</link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2008, The Conversations Network</copyright>
+    <lastBuildDate>Wed, 19 Dec 2012 06:03:22 EST</lastBuildDate>
+    <generator>Conversations Network Custom RSS Generator 4.0</generator>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <managingEditor>webmaster@conversationsnetwork.org (The Conversations Network)</managingEditor>
+    <webMaster>webmaster@conversationsnetwork.org (The Conversations Network)</webMaster>
+    <itunes:category text='Technology'>
+    </itunes:category>
+    <item>
+      <title>Doug Kaye - All&#039;s Well That Ends Well</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5331.html</link>
+      <description>When Doug Kaye created IT Conversations in 2003, most people didn&amp;#039;t know what a podcast was and why they should care. Yet the idea spread and today, all kinds of people and organizations regularly release content to people throughout the world. Doug joins Phil Windley to bid farewell to the Conversations Network. They discuss the background of why Doug chose to be a podcast pioneer and how the network helped revolutionize a new way to distribute interesting content.</description>
+      <pubDate>Tue, 4 Dec 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5331</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5331.png' length='11227' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>editorsChoice,podcasting</itunes:keywords>
+      <itunes:duration>00:40:02</itunes:duration>
+    </item>
+    <item>
+      <title>Patrick Lightbody - Wisdom of the Crowd: Gathering Insights from Real User Monitoring</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5330.html</link>
+      <description>Web developers will need an ample supply of RUM to ensure their applications are performing to users&amp;#039; satisfaction. Patrick Lightbody, Director, Product Development, Neustar Web Performance, advises developers that beyond nav timings the core things users care about are performance, availability, and functionality. In this talk Patrick describes the tools developers can use to evaluate critical web metrics, and how to produce a meaningful score card from the data they produce.</description>
+      <pubDate>Fri, 30 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5330</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5330.png' length='12245' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,softwareDevelopment,Neustar, Jenkins, Selenium, RUM, performance, availability, functinality, APM</itunes:keywords>
+      <itunes:duration>00:16:29</itunes:duration>
+    </item>
+    <item>
+      <title>Dr. Peter G. Hartwell - CeNSE, How The Sensor Revolution Will Form The Next Layer On The Internet</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5327.html</link>
+      <description>Dr Peter Hartwell discusses Hewlett-Packard&amp;#039;s project to form a new information ecosystem called the Central Nervous System for the Earth, or CeNSE. The system will include a planetary system of a trillion nano-scale sensors and actuators embedded in the environment and connected via an array of wireless networks with computing systems, software and services to exchange real-time information among analysis engines, storage systems and end users. Applications include food safety, energy use and factory operations.</description>
+      <pubDate>Thu, 29 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5327</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5327.png' length='11173' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,mobile-wireless,science-technology,softwareDevelopment,MEMS, CeNSE, Central Nervous System for the Earth, accelerometers, cloud computing, sensors</itunes:keywords>
+      <itunes:duration>00:22:54</itunes:duration>
+    </item>
+    <item>
+      <title>Albert Wenger - Political and Commercial Threats and Opportunities for a Faster and Stronger Web</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5329.html</link>
+      <description>The very standards and conditions that made the Web a permissive, open environment have come under an attack from an onslaught of legal regulations and the monopolistic aspirations of bandwidth and software providers. Albert Wenger, Managing Partner at Union Square Ventures, takes us on a journey of why the Web has proved successful for us, what made it interesting and open, how the very conditions that helped the Web flourish are under a threat, and what we can do about them.</description>
+      <pubDate>Wed, 28 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5329</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5329.png' length='11201' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,future,internet-web,legal,personalTechnology,privacy,open standards, internet open standards, online democracy, online privacy, patents, cyber laws, Albert Wenger, ownership of online data, bandwidth restrictions, Union Square Ventures, make the web open again, stop controlling the Web</itunes:keywords>
+      <itunes:duration>00:20:20</itunes:duration>
+    </item>
+    <item>
+      <title>Pamela Rutledge - How Emerging Technologies are Increasing Intrinsic Motivation</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5326.html</link>
+      <description>What are the hidden motivations in all the decisions we make about technology? Pamela Rutledge, Co-Founder/Director, A Think Lab/Media Psychology Research Center, spells out why our intrinsic ability to get things done is really what gets us up in the morning. Hear in this talk what what drives creativity and innovation, what technology does with motivation, how this has implications at multiple levels, and how giving people more control over their lives increases commercial success.
+</description>
+      <pubDate>Tue, 27 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5326</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5326.png' length='12228' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>culture,future,personalTechnology,socialEntrepreneurship,intrinsic, extrinsic, motivation, psychology, optimal cognitive functioning, autonomy, relatedness, mastery, creativity</itunes:keywords>
+      <itunes:duration>00:19:03</itunes:duration>
+    </item>
+    <item>
+      <title>Richard Cook - How Complex Systems Fail</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5328.html</link>
+      <description>All systems suffer from failures, but less frequently than expected. Why is it we have so few accidents in a world that behaves so badly? Dr Richard Cook speaks to this issue and what we learn from it based on twenty-five years of research beginning with the medical field in emergency rooms, surgical theaters and application of anesthesia. His scope then expands to other complex systems in such critical and dangerous human endeavors as aviation, power generation and distribution, and military operations.  </description>
+      <pubDate>Wed, 21 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5328</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5328.png' length='11417' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,education,health-medicine,opensource,FRAM, reliability engineering, resilience engineering, system resilience, system engineers, system operators  system design,</itunes:keywords>
+      <itunes:duration>00:29:47</itunes:duration>
+    </item>
+    <item>
+      <title>Larry Downes - The Future of Communications Regulation</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5325.html</link>
+      <description>Consultant Larry Downes discusses why the old utility regulatory model has not kept up with the new communications system, with its greater speeds and capacities. In this talk from the 2011 Emerging Communications Conference, he argues that the communications industry cannot succeed if it is forced to deal with slower legal processes. </description>
+      <pubDate>Tue, 20 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5325</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5325.png' length='12959' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,government,mobile-wireless,telephony,communications, regulations, business</itunes:keywords>
+      <itunes:duration>00:23:58</itunes:duration>
+    </item>
+    <item>
+      <title>Jon Jenkins - Velocity Culture</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5102.html</link>
+      <description>&amp;quot;Since the 10th of November 2010, Amazon has not used a single physical web server. Everything is hosted on EC2 hosts,&amp;quot; announces a proud Jon Jenkins, the Director of Platform Analysis at Amazon. Until now, the Velocity conference has laid the focus of their spotlight on Web velocity, i.e. Web performance. Jenkins moves the spotlight in the direction of &amp;quot;Web operations.&amp;quot; He argues that optimizations in operations too can lead to greater business profits.</description>
+      <pubDate>Mon, 19 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5102</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5102.png' length='11514' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,internet-web,deployment, software deployment, hosting, hosting applications on the web, hardware costs, data center costs, cloud computing, utility computing, Amazon Web Services, Amazon Elastic Cloud Computing, EC2, web scalability, operations, ops</itunes:keywords>
+      <itunes:duration>00:17:14</itunes:duration>
+    </item>
+    <item>
+      <title>Service Innovation - 2011 GSB Healthcare Summit</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4852.html</link>
+      <description>Innovation in any sector is not for the faint of heart, and that&amp;#039;s even more the case in the world of healthcare delivery. In this panel discussion, four intrepid professionals talk about how they have plunged forward in the world of healthcare innovation and made substantial progress. The discussion was part of the 2011 Healthcare Summit, held at the Stanford Graduate School of Business.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4852</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4852.png' length='14594' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,science-technology,healthcare, disease prevention, innovation, Stanford Social Innovation Review, university podcast, educational podcast, panel discussion</itunes:keywords>
+      <itunes:duration>00:43:15</itunes:duration>
+    </item>
+    <item>
+      <title>Technology for Healthcare Delivery - CEO and Co-founder, Proteus Biomedical</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4854.html</link>
+      <description>How can technology be leveraged to achieve the ultimate goal of healthcare for everyone, everywhere? In this university podcast, expert Andrew Thompson shares his vision for intelligent medicine and his considerable expertise in creating a sustainable model for innovation that utilizes computer technology. This podcast is from the Stanford Graduate School of Business Future of Healthcare series.
+</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4854</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4854.png' length='11881' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,science-technology,healthcare, disease prevention, innovation, Stanford Social Innovation Review, university podcast, educational podcast, panel discussion</itunes:keywords>
+      <itunes:duration>00:25:29</itunes:duration>
+    </item>
+    <item>
+      <title>Healthcare and Biotechnology - 2011 GSB Healthcare Summit</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4856.html</link>
+      <description>How can innovation be harnessed in the healthcare sector? In this panel discussion, professionals discuss new products and ventures they&amp;#039;ve been involved in to impact the biotechnology field. Topics range from laser film recorders to support tools for companies that break down barriers, to improving social health. The discussion was part of the 2011 Healthcare Summit, held at the Stanford Graduate School of Business.
+
+
+</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4856</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4856.png' length='14679' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>biotech,health-medicine,science-technology,healthcare, disease prevention, innovation, Stanford Social Innovation Review, university podcast, educational podcast, panel discussion</itunes:keywords>
+      <itunes:duration>00:54:13</itunes:duration>
+    </item>
+    <item>
+      <title>Richard Migliori - The Future of the Healthcare Sector</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4941.html</link>
+      <description>How can the healthcare industry become more sustainable in the long term? In this university podcast, UnitedHealth Group executive Richard Migliori talks about what drives innovation in his organization, and how those lessons can be applied to the industry in general. Migliori spoke at the 2011 Stanford Global Healthcare Summit.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4941</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4941.png' length='11470' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,science-technology,information technology, healthcare, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture, source=gsb</itunes:keywords>
+      <itunes:duration>00:19:34</itunes:duration>
+    </item>
+    <item>
+      <title>Cross-Sector Social Innovation - Woods Institute for the Environment</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5063.html</link>
+      <description>As Stanford University&amp;#039;s hub of environment and sustainability research, the Woods Institute for the Environment is the go-to place for collaboration across sectors and disciplines aimed at finding solutions to the most critical, complex environmental and sustainability challenges. How does the organization do it, and how does it manage the problems associated with interdisciplinary activism? In this university lecture, director Barton Thompson shares stories from the trenches.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5063</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5063.png' length='12232' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>energy-environment,environmental preservation, cross-sector collaboration, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>01:12:20</itunes:duration>
+    </item>
+    <item>
+      <title>Paul Kedrosky - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5287.html</link>
+      <description>Sustainable economic growth -- be it in the United States or beyond -- doesn&amp;#039;t come through status quo thinking, it comes through connectivity, flux, and a &amp;quot;collision&amp;quot; of people and ideas. So says Paul Kedrosky of the Kauffman Foundation in this university podcast. Addressing an audience of international ministers from developing countries, and technology and NGO professionals at the USRio+2.0 Conference at Stanford, he argues for entrepreneurism as the path to innovation and growth.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5287</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5287.png' length='12165' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>science-technology,socialEntrepreneurship,innovation, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:11:58</itunes:duration>
+    </item>
+    <item>
+      <title>Jennifer Aaker - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5288.html</link>
+      <description>When a group of friends went to work using social media to help pair their colleague diagnosed with leukemia with a bone marrow donor, a project they named the Dragonfly Effect was born. In this university podcast, Stanford business professor Jennifer Aaker talks about how the lessons emerging from this simple and heartfelt enterprise can apply to any group that wants to use the Internet to promote a good cause. She spoke at the USRio+2.0 Conference, hosted by Stanford.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5288</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5288.png' length='11113' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,social media, healthcare, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:14:48</itunes:duration>
+    </item>
+    <item>
+      <title>Ridwan Djamaluddin - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5289.html</link>
+      <description>In Indonesia, warning technology exists to alert people to coming weather catastrophes like tsunamis, but too few people have access to the information. So says Ridwan Djamaluddin, Indonesia&amp;#039;s deputy chairman for Natural Resources Development, in this university podcast. He discusses the important role of connection technology in increasing the efficiency of tools and enhancing partnerships between governments and their people. Djamaluddin spoke at the USRio+2.0 Conference, hosted by Stanford.</description>
+      <pubDate>Sun, 18 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5289</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5289.png' length='11785' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>disasterRelief,government,socialNetworks,information technology, public sector, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:09:17</itunes:duration>
+    </item>
+    <item>
+      <title>Jofish Kaye - New Technologies to Help Families Love</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5249.html</link>
+      <description>Nokia Research teams up with Sesame Street to improve communications for dispersed families. &amp;quot;Would you like to be able to read Sesame Street books with your child when you are far away from home? Or have your child&amp;#039;s grandparents or other loved ones read with your child from afar? The furry friends from Sesame Street have teamed up with Nokia Research Center to help children connect with their long distance loved ones.&amp;quot; Jofish Kaye from Nokia describes the development and value of this project.</description>
+      <pubDate>Fri, 16 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5249</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5249.png' length='11198' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>culture,innovationsociale,media,personalTechnology,socialEntrepreneurship,socialNetworks,Nokia Research, Sesame Street, Family Story Play, StoryVisit</itunes:keywords>
+      <itunes:duration>00:15:28</itunes:duration>
+    </item>
+    <item>
+      <title>Alan Duric - Advances in Real Time communications as Kernel for Nobler Social Networks</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5215.html</link>
+      <description>The ideal social network of the future, for Alan Duric, co-founder of Telio, will be one that leverages real-time communication, provides data privacy and is based on a peer-to-peer governance system. Today&amp;#039;s social networks, while evolving at a rapid rate, are still a far cry from this ideal, says Alan. After founding and selling two successful starts up to Skype and Google, Alan&amp;#039;s new vehicle Telio is about bridging this gap between social media and real-time communication systems.</description>
+      <pubDate>Wed, 14 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5215</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5215.png' length='11424' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>future,mobile-wireless,socialNetworks,telephony,real time communication, Alan Duric, Telio,</itunes:keywords>
+      <itunes:duration>00:15:41</itunes:duration>
+    </item>
+    <item>
+      <title>Eric Dishman - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5286.html</link>
+      <description>In a world in which there may not be enough capacity to take care of an increasingly older and sicker population, how may mobile and home-based technologies will be used to facilitate healthcare? That&amp;#039;s the question explored by Eric Dishman, director of health innovation at Intel, in this university podcast. He looks at how technologies such as broadband can inexpensively support non-acute healthcare services. Dishman spoke at the USRio+2.0 Conference, hosted by Stanford.</description>
+      <pubDate>Wed, 14 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5286</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5286.png' length='12025' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,internationalDevelopment,mobile-wireless,information technology, healthcare, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:21:40</itunes:duration>
+    </item>
+    <item>
+      <title>Artur Bergman - Artur on SSD&#039;s</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5112.html</link>
+      <description>Solid-state drives or SSD&amp;#039;s are much better than electromechanical drives such as the Hard Disk Drive or HDD. Low boot-up time, no audible clicks or spinning noise, low access time, less power consumption, no vibration -- these are only some of the advantages that SSD&amp;#039;s offer. Hacker and technologist Artur Bergman tells us about them. Artur is the VP of Engineering and Operations and Wikia. Warning: This talk contains strong language and may not be suitable to listen to at work.</description>
+      <pubDate>Fri, 9 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5112</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5112.png' length='11118' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>computerHardware,hardware, drives, SSD, HDD, electrical drives, electromechanical drives, spindles, disks, data centers, archival, data archival, data backup, efficient storage, fast I/O, latency, disk access time</itunes:keywords>
+      <itunes:duration>00:05:40</itunes:duration>
+    </item>
+    <item>
+      <title>Tomaz Stolfa - Goodbye VoIP Clients. Hello New Browser Technologies. Hello New User Cases.</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5214.html</link>
+      <description>What if you didn&amp;#039;t use multiple phone numbers or multiple SIM cards during international travel? What if you didn&amp;#039;t have a phone number at all but a plain-text alias that people could dial into? Just like domain names in the place of IP addresses, what if human beings had unique aliases that could replace phone numbers, and these aliases were not tied to a carrier or a telephony operator? What if collect calls were possible on the Web? What if you could have a disposable phone that you used only for one phone call and never again? Tomaz Stolfa, the founder of Vox.io is working on making this a reality.</description>
+      <pubDate>Wed, 7 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5214</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5214.png' length='11402' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>mobile-wireless,personalTechnology,telephony,voice calls over the web, vox.io, telephony, collect calls, single telephone, disposable telephone, collect calls over the web, conference telephone calls over the Web, Tomaz Stolfa</itunes:keywords>
+      <itunes:duration>00:15:54</itunes:duration>
+    </item>
+    <item>
+      <title>Jeremie Miller - Data Is Not Primary</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5272.html</link>
+      <description>In the last decade, social media has changed the way we live our lives. We have all become high producers and consumers of social data. The data we generate is not just data, though. It tells our story. It is biographical. However, access to social data so far has been governed by APIs, and any API with a terms-of-service is restrictive. What if we could provide you a one-stop shop, an unrestricted, seamless, single point of access for all your social data; and you owned it all? Jeremie Miller, jabber/XMPP creator, has &amp;quot;Singly&amp;quot; to provide this.</description>
+      <pubDate>Tue, 6 Nov 2012 00:00:00 EST</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5272</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5272.png' length='10589' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>future,internet-web,personalTechnology,softwareDevelopment,internet, web, web services, data, big data, socialization of data, social networks, social media, media, personal technology, api, data privacy, privacy of data, data ownership, ownership of data, software development</itunes:keywords>
+      <itunes:duration>00:12:25</itunes:duration>
+    </item>
+    <item>
+      <title>Michael Jones - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5279.html</link>
+      <description>Technology is increasingly being used to support sustainable development, and Google is on the leading edge of that trend. In this university podcast, Google&amp;#039;s chief technology advocate, Michael Jones, addresses an audience of international government ministers from developing countries as well as technology and NGO professionals convened by the US State Department and the Stanford Graduate School of Business on the topic. He spoke at the USRio+2.0 Conference, hosted by Stanford.</description>
+      <pubDate>Sun, 4 Nov 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5279</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5279.png' length='12103' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internationalDevelopment,internet-web,information technology, innovation, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:29:07</itunes:duration>
+    </item>
+    <item>
+      <title>Thomas Sachson - Subsidized Data Delivery Via &quot;Toll-Free&quot; Apps</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5210.html</link>
+      <description>If the delivery of pizza, flowers and books can be free, why not the delivery of bytes over the Web? Even landline telephone providers have a &amp;quot;1-800&amp;quot; model that delivers signal for zero cost to the carrier and the consumer. Thomas Sachson, founding member of of Box Top Solutions, proposes a market-driven model that can provide free or subsidized bandwidth and still pay for itself.</description>
+      <pubDate>Thu, 1 Nov 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5210</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5210.png' length='11185' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,internet-web,mobile-wireless,green-light apps, free bytes, bandwidth, Thomas Sachson, BoxTop Solutions, toll-free apps, facebook zero, subsidized bandwidth, subsidized data delivery</itunes:keywords>
+      <itunes:duration>00:19:01</itunes:duration>
+    </item>
+    <item>
+      <title>Alyssa Henry - Pivot (Amazon S3)</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5273.html</link>
+      <description>Amazon has a virtual supercomputer you can rent by the hour, and it is cheap too. Alyssa Henry from Amazon discusses the company&amp;#039;s Elastic MapReduce web service for businesses, researchers, data analysts, and developers to easily and cost-effectively process vast amounts of data. It uses a hosted Hadoop framework running on the web-scale infrastructure of Amazon Elastic Compute Cloud (Amazon EC2) and Amazon Simple Storage Service (Amazon S3)that can be quickly switched on and off. Hear how over 560 billion objects are tracked worldwide. </description>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5273</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5273.png' length='11285' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,internet-web,marketing,hadoop, Amazon Simple Storage Service (S3), Amazon Web Services (AWS), Amazon Elastic Compute Cloud, Yelp, Netflix, Cycle Computing, supercomputer</itunes:keywords>
+      <itunes:duration>00:09:19</itunes:duration>
+    </item>
+    <item>
+      <title>Fabien Cousteau - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5278.html</link>
+      <description>Climate change, over-consumption of natural resources, and pollution are all contributing to the failing health of our planet, but what can we do to more effectively promote environmental sustainability? In this university podcast, Fabien Cousteau, the third generation to carry on the tradition of deep-ocean adventure and exploration originally pioneered by his grandfather more than half a century ago, offers some solutions. He spoke at the USRio+2.0 Conference at Stanford.</description>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5278</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5278.png' length='12259' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>energy-environment,environmental preservation, global warming, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:13:14</itunes:duration>
+    </item>
+    <item>
+      <title>Maura O&#039;Neill - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5276.html</link>
+      <description>How important are science, technology, and innovation to international development? They&amp;#039;re nothing less than critical for lifting people out of poverty, says Maura O&amp;#039;Neill, chief innovation officer at USAID, in this university podcast. Speaking at the USRio+2.0 Conference hosted at the Stanford Graduate School of Business, O&amp;#039;Neill discusses how connection technologies, in particular, can support sustainable development around the world.</description>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5276</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5276.png' length='11979' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>government,internationalDevelopment,science-technology,poverty, information technology, innovation, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:31:06</itunes:duration>
+    </item>
+    <item>
+      <title>Tim O&#039;Reilly - USRio+2.0 Conference</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5277.html</link>
+      <description>Collective intelligence, man-machine symbiosis, real time feedback loops from sensors… Such concepts are harbingers of a new cooperation between humans and machines. In this university podcast, media expert Tim O&amp;#039;Reilly discusses how lessons from technology can apply to sustainable global development. He spoke at the USRio+2.0 Conference hosted at Stanford.</description>
+      <pubDate>Tue, 23 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5277</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5277.png' length='12267' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>computerHardware,future,internationalDevelopment,softwareDevelopment,information technology, innovation, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:37:58</itunes:duration>
+    </item>
+    <item>
+      <title>Mike McCue - When to Ignore the Data</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5271.html</link>
+      <description>Mike McCue, a serial web entrepreneur, compares his latest venture, Flipboard, to the 1957 Jaguar XKSS. Flipboard, a &amp;quot;social magazine&amp;quot; for the tablet, brings the best of print production values and sprinkles in social aspects in a web interface that is out to make a new premium web category. Mike describes his perspective, with online examples, of how art fits into his business model.</description>
+      <pubDate>Mon, 22 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5271</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5271.png' length='11665' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>entertainment,internet-web,marketing,media,mobile-wireless,socialNetworks,tablet magazine interface, premium web,</itunes:keywords>
+      <itunes:duration>00:12:17</itunes:duration>
+    </item>
+    <item>
+      <title>Richard Whitt - The FCC&#039;s National Broadband Plan: A Critique through the Lens of Adaptive Policymaking</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5236.html</link>
+      <description>Are you aware of the array of obstacles facing America&amp;#039;s broadband policy? Richard Whitt covers how the national broadband plan was affected by the  economic meltdowns of 2008 and 2009, court decisions, and other moving parts impacting the future success or failure of America&amp;#039;s broadband roll-out efforts.</description>
+      <pubDate>Wed, 17 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5236</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5236.png' length='10340' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>government,mobile-wireless,politics,broadband,regulation,FCC,infrastructure</itunes:keywords>
+      <itunes:duration>00:23:13</itunes:duration>
+    </item>
+    <item>
+      <title>Brad Rencher - How Digital Drives Impact</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5270.html</link>
+      <description>Our digital world with its huge amounts of data is evolving rapidly and often times in an uncharted manner. Brad Rencher of Adobe Systems says we need to know how to measure the impact of digital activities. He suggests we look at the problem from three directions: socially, through the use of mobile devices, and with data analytics. He offers case studies of successful and failed approaches to help businesses develop a line of sight to follow for digital success.</description>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5270</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5270.png' length='11352' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>marketing,mobile-wireless,Adobe Systems, data analytics, social impact,mobileapplication, Newt Gingrich, MTV, Miley Cyrus, BrunoMars, Warner Music, Vail Resorts, RFID, Epic Mix, Chief Marketing Officer</itunes:keywords>
+      <itunes:duration>00:13:00</itunes:duration>
+    </item>
+    <item>
+      <title>Susan Wojcicki - Getting Visual with Google Analytics</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5269.html</link>
+      <description>You want to know what&amp;#039;s actually happening on your website? Google Analytics is a powerful tool that enables the following of website traffic. Susan Wojcicki, a senior vice president at Google, presents different features of Google Analytics, including innovations like dynamic diagrams, possibility of sorting data by many different criteria, custom variables, premium version for businesses that want SLA or more custom functionality, and a new feature that enables real time monitoring of web site traffic.</description>
+      <pubDate>Wed, 10 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5269</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5269.png' length='11102' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,marketing,Google Analytics, Flow Visualization, Real Time Data, Sankey Diagram</itunes:keywords>
+      <itunes:duration>00:13:15</itunes:duration>
+    </item>
+    <item>
+      <title>Alois Reitbauer - What It Means To Deliver Exceptional Performance</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5164.html</link>
+      <description>One of the many concerns a web site operator has is how well a site performs. It&amp;#039;s a relative but important issue and one over which the site operator only has partial control. Exceptional performance is possible but can also be lost. Site performance requires constant monitoring. Alois Reitbauer from dynaTrace discusses what should be monitored and how to do it.</description>
+      <pubDate>Tue, 9 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5164</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5164.png' length='11190' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,dynaTrace, Alois Reitbauer, web site performance, web site speed</itunes:keywords>
+      <itunes:duration>00:08:08</itunes:duration>
+    </item>
+    <item>
+      <title>Katherine Perkins - Teaching with Interactive Simulations</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail5071.html</link>
+      <description>Over 25 million downloads in 2011 support calling PhET Interactive Simulations the leading provider of educational physics simulations. In this audio interview, Sheela Sethuraman speaks with Katherine Perkins, Director of PhET since 2008. As The Tech Awards 2011 laureates of the Microsoft Education Award, Perkins discusses how PhET has continued to grow and adapt their simulations for a growing audience in recent years.</description>
+      <pubDate>Mon, 8 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5071</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5071.png' length='12267' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>education,opensource,softwareDevelopment,physics, education, technology, simulation, high school, college, open source, Stanford podcast, university podcast, educational podcast</itunes:keywords>
+      <itunes:duration>00:23:22</itunes:duration>
+    </item>
+    <item>
+      <title>Randall Carpenter - Diagnostics and Therapy for Autism</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5324.html</link>
+      <description>Dr. Moira Gunn talks about new diagnostics and therapy for autism with Seaside Therapeutics CEO, Randall Carpenter. </description>
+      <pubDate>Sat, 6 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5324</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5324.png' length='8763' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>biotech,health-medicine,science-technology,autism, carpenter, Seaside Therapeutics, Diagnostics</itunes:keywords>
+      <itunes:duration>00:19:09</itunes:duration>
+    </item>
+    <item>
+      <title>Geoff Nurnberg - Ascent of the A-Word</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5323.html</link>
+      <description>Dr. Moira Gunn talks with linguist and author, Geoff Nurnberg about his new book, Ascent of the A-Word, where he dives into the history of a term with origins dating back to World War II.</description>
+      <pubDate>Sat, 6 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5323</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5323.png' length='11734' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>culture,history,A-Word, Nurnberg, Fresh Air, Linguist</itunes:keywords>
+      <itunes:duration>00:33:01</itunes:duration>
+    </item>
+    <item>
+      <title>Michael Dell - Dell&#039;s Change from Products to Services</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5268.html</link>
+      <description>Michael Dell discusses with John Battelle the development, goals, challenges and Dell&amp;#039;s place within the IT industry. He founded Dell, Inc., and directed the company for over twenty-seven years to its present $60 billion value and 120 thousand employee size. He is an industry expert and offers insider views here about the state and direction of this major industrial segment as it impacts the way we live and interact. 
+
+</description>
+      <pubDate>Fri, 5 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5268</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5268.png' length='11235' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,health-medicine,internet-web,Michael Dell, Dell, Tencent.com, IT services, Streak tablet, Radian6, TenCent, cloud archives, medical records, evidence-based medicine</itunes:keywords>
+      <itunes:duration>00:30:03</itunes:duration>
+    </item>
+    <item>
+      <title>Brian Doll - The Future of Application Performance Management</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5161.html</link>
+      <description>Today&amp;#039;s enterprises demand a comprehensive application performance management tool that keeps pace with the speed and complexity of the applications that it monitors. Brian Doll, Director, Technical Marketing at New Relic introduces the company&amp;#039;s end-to-end application performance management tool. </description>
+      <pubDate>Tue, 2 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5161</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5161.png' length='11313' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,Application Performance Management, Velociy, New Relic, Brian Doll, End User Monitoring</itunes:keywords>
+      <itunes:duration>00:06:13</itunes:duration>
+    </item>
+    <item>
+      <title>Joanne Bradford - Embracing The Data Layer</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5267.html</link>
+      <description>Have writers been &amp;#039;disintermediated,&amp;#039; like other &amp;#039;middlemen,&amp;#039; from the relationship between their content and readers? Joanne Bradford, the CMO and Chief Revenue Officer of Demand Media, one of the largest content vendors on the web, talks to this point. Demand Media provides service articles and videos, the most popular being eHow.com. Bradford gives advice to writers on how to win the content game: Know what you&amp;#039;re good at, build your fan base, learn the technology, and be prolific. </description>
+      <pubDate>Mon, 1 Oct 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5267</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5267.png' length='11242' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,media,content provider, future of content, crowdsourced content</itunes:keywords>
+      <itunes:duration>00:10:36</itunes:duration>
+    </item>
+    <item>
+      <title>Soren Kaplan - The Power of Surprise</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5321.html</link>
+      <description>Dr. Moira Gunn discusses how the power of surprise is breaking down barriers in business with Soren Kaplan, the author of Leapfrogging: Harness the Power of Surprise for Business Breakthroughs. </description>
+      <pubDate>Sat, 29 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5321</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5321.png' length='11150' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,culture,Surpise, Power, Leapfrogging, Kaplan</itunes:keywords>
+      <itunes:duration>00:30:44</itunes:duration>
+    </item>
+    <item>
+      <title>Gary Rabin - Non-destructive Stem Cell Treatment</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5322.html</link>
+      <description>Dr. Moira Gunn learns about a new treatment for macular degeneration using stem cells from Advanced Cell Technology CEO, Gary Rabin.   </description>
+      <pubDate>Sat, 29 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5322</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5322.png' length='8763' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>biotech,health-medicine,science-technology,Rabin, Advanced Cell Technology, Stem Cell, macular degeneration</itunes:keywords>
+      <itunes:duration>00:20:31</itunes:duration>
+    </item>
+    <item>
+      <title>Artur Bergman - Full Stack Awareness</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5166.html</link>
+      <description>Artur Bergman, CEO of Fastly, tells everyone what he really thinks about ops software offerings and their marketing. Given the state of things, it&amp;#039;s important for any ops manager to be a generalist, and be ready to delve into understanding the nuances of distributed systems to fix underlying problems that cause delays and loss of traffic. Months after this talk, Bergman made tools available on GitHub, beginning to cover the scope of things to know for optimum operations. Warning: Strong Language.</description>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5166</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5166.png' length='11545' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,opensource,site traffic analysis, best practice in operations</itunes:keywords>
+      <itunes:duration>00:19:09</itunes:duration>
+    </item>
+    <item>
+      <title>Andrew Savikas - Stories from 10 Years of Subscription Usage and Sales at Safari Books</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5185.html</link>
+      <description>Once Andrew Savikas took over as CEO of Safari Books, he realized a few things about the online subscription model.  First, he realized Safari Books has had a 100% growth each year for the last ten (10) years.  Second, he witnessed the number of tablets double over Christmas 2011. This meant that customers were becoming accustomed to reading online and using online subscription services.  In this keynote, Andrew suggests that subscription models offer a bona-fide business model for publishers of many genres of books. 
+</description>
+      <pubDate>Wed, 26 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5185</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5185.png' length='11312' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,marketing,media,subscription-based pay model, book publishing</itunes:keywords>
+      <itunes:duration>00:17:30</itunes:duration>
+    </item>
+    <item>
+      <title>Bret Taylor - The Intersection of Social Features</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5266.html</link>
+      <description>Would you like to be able to port your friends list from Google Plus to Facebook, or vice versa? Would you like Facebook to integrate with more services you use, even if it means sharing your personal data with those third-party services? Bret Taylor, then the Chief Technology Officer at Facebook, answers these important questions and talks about the challenges in finding the right balance between data portability and data privacy, and between catering to the needs of Facebook power users and keeping the design simple.</description>
+      <pubDate>Tue, 25 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5266</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5266.png' length='11250' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>socialNetworks,social media, facebook, friend feed, google plus, data privacy, social networks, social networking, data sharing, data sharing across social networks, new features in facebook</itunes:keywords>
+      <itunes:duration>00:17:53</itunes:duration>
+    </item>
+    <item>
+      <title>Health Innovation Challenges in India and Africa: Panel Discussion - Global Health Speaker Series</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4853.html</link>
+      <description>Major gaps exist between what health resources are available in the developing world and what is needed. In this panel discussion, global health professionals describe their successes in improving health outcomes in Ghana, Rwanda, and India. They provide examples of how technological and social innovations can be integrated with limited resources. Michele Barry, Director of Global Health Programs in Medicine at Stanford leads this discussion at the 2011 Stanford Graduate School of Business Healthcare Summit.</description>
+      <pubDate>Mon, 24 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4853</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4853.png' length='14606' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,health, disease, Stanford podcast, global health, University podcast, social innovation, source=gsb</itunes:keywords>
+      <itunes:duration>01:19:59</itunes:duration>
+    </item>
+    <item>
+      <title>Joshua Bixby - The Relationship Between Faster Mobile Sites and Business KPIs</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5162.html</link>
+      <description>President of StrangeLoop Networks Joshua Bixby guides us through what he calls the Mobile Revolution. He presents us with data his company has collected over the years in specific (though anonymous) case studies relating to the increase of mobile website traffic. The figures are compelling and the message even more. New entrepreneurs as well as internet-business veterans need to pay attention to the mobile market. It is already a non-negligible facet of internet commerce and will continue to grow in years to come.</description>
+      <pubDate>Fri, 21 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5162</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5162.png' length='11141' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,marketing,mobile-wireless,personalTechnology,science-technology,mobile,entrepreneurship,business,online,strangeloop,joshua,bixby</itunes:keywords>
+      <itunes:duration>00:28:11</itunes:duration>
+    </item>
+    <item>
+      <title>Baratunde Thurston - How To Be Black</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5184.html</link>
+      <description>How To Be Black is a book that has shades of gallows humor, racism, satire, autobiography and self-help. But throughout the comical and anecdotal narrative of the book runs a low vein, an undertone that challenges the fallacious social beliefs about racial stereotypes. Its author Baratunde Thurston explains how the book began, what the book is about, why he wrote it, and how it evolved as he was writing and producing it.  In the end it is a fascinating exploration of the future of publishing, today.</description>
+      <pubDate>Thu, 20 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5184</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5184.png' length='11354' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>culture,racism, satire, black people, book</itunes:keywords>
+      <itunes:duration>00:22:33</itunes:duration>
+    </item>
+    <item>
+      <title>James Pearce - The Reality of HTML5 and How it Affects Mobile</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5231.html</link>
+      <description>The web revolution is happening in mobile. So says James Pearce, in his talk at eComm when he was Senior Director of Developer Relations, Sencha. HTML 5 and the mobile web might provide a way to mitigate the difficulties involved with a fragmented array of native environments. In a comparison of HTML5 with native environments, Pearce says its architecture would look like that of any native platform. Hear in this talk Pearce address what he says are HTML 5 myths, such as HTML 5 apps cannot be monetized. </description>
+      <pubDate>Tue, 18 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5231</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5231.png' length='5193' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>future,internet-web,softwareDevelopment,HTML 5, WebKit, mobile, javascript, CSS, iPhone, Android</itunes:keywords>
+      <itunes:duration>00:20:47</itunes:duration>
+    </item>
+    <item>
+      <title>Michael Roth - Transmedia Campaigns in the Social Age</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5265.html</link>
+      <description>Twentieth century advertising is caricatured as hucksters selling the 30-second TV commercial as a panacea for market obscurity. These days, advertising, experiential marketing, and public relations have taken off in the digital space. Michael Roth, head of Interpublic, says they have done some good business investing in digital and social media, besides their early investment in Facebook, and are set to offer the most responsive transmedia campaigns to their clients&amp;#039; needs.</description>
+      <pubDate>Mon, 17 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5265</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5265.png' length='11193' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,future,internet-web,marketing,media,advertising,transmedia, integrated advertising, agnostic media campaign</itunes:keywords>
+      <itunes:duration>00:20:12</itunes:duration>
+    </item>
+    <item>
+      <title>Jay Deady - Technology in Healthcare Delivery Redesign</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4939.html</link>
+      <description>How can technology can be used to help minimize some of the greatest bottlenecks in today&amp;#039;s healthcare systems? In this university podcast, Jay Deady, CEO of Awarepoint Corporation, talks about how his company&amp;#039;s software solutions provide enterprise awareness within hospitals, lowering costs and enhancing efficiency in the acute care environment. Deady spoke at the Stanford Healthcare Summit.</description>
+      <pubDate>Fri, 14 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4939</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4939.png' length='10872' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,softwareDevelopment,information technology, healthcare, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture</itunes:keywords>
+      <itunes:duration>00:20:51</itunes:duration>
+    </item>
+    <item>
+      <title>John Evans - Technology in Healthcare Delivery Redesign</title>
+      <link>http://sic.conversationsnetwork.org/shows/detail4940.html</link>
+      <description>What does aerospace have to do with healthcare? In this university podcast, John Evans, a Lockheed Martin executive, talks about how technology in his sector can be applied to healthcare to improve performance. Evans spoke at the 2011 Stanford Healthcare Summit. He discusses how systems approaches can be used to drive efficiency and outcomes in intensive care, in particular.</description>
+      <pubDate>Fri, 14 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-4940</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/4940.png' length='11200' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>health-medicine,softwareDevelopment,information technology, healthcare, Stanford Social Innovation Review, university podcast, educational podcast, audio lecture, source=gsb</itunes:keywords>
+      <itunes:duration>00:23:23</itunes:duration>
+    </item>
+    <item>
+      <title>John Partridge and Dan Schulman - A Conversation with John Partridge and Dan Schulman</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5264.html</link>
+      <description>John Partridge, President of Visa, Inc., and Dan Schulman, Group President, Enterprise Growth at American Express, are two of few people at the helm of the digital commerce evolution. How will the future of digital commerce look? They answer this intriguing question as they speak to John Battelle at the recently held Web 2.0 conference and discuss the exciting opportunities and challenges ahead in the area of digital commerce.</description>
+      <pubDate>Wed, 12 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5264</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5264.png' length='11234' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>business,internet-web,Visa, American Express, Wallet, e-commerce, payment</itunes:keywords>
+      <itunes:duration>00:39:44</itunes:duration>
+    </item>
+    <item>
+      <title>Arnaud Becart - Exhaustive End-User Monitoring</title>
+      <link>http://itc.conversationsnetwork.org/shows/detail5160.html</link>
+      <description>Arnaud Becart, Product Manager at ip-label talks about how ip-label has embraced both active and passive website monitoring to develop an exhaustive end user monitoring solution for its clients. Citing several examples, the presentation discusses how ip-label helps its clients in monitoring user experience across different platforms, several browsers, diverse locations, multiple devices, various content types and varied contexts.</description>
+      <pubDate>Tue, 11 Sep 2012 00:00:00 EDT</pubDate>
+      <guid isPermaLink='false'>http://www.conversationsnetwork.org/episode-5160</guid>
+      <enclosure url='http://assets.conversationsnetwork.org/showimages/5160.png' length='10983' type='image/png' />
+      <conversationsNetwork:introMilliseconds>0</conversationsNetwork:introMilliseconds>
+      <itunes:keywords>internet-web,ip-label, EUM, RUM, Arnaud Becart, Velocity Conference</itunes:keywords>
+      <itunes:duration>00:17:40</itunes:duration>
+    </item>
+  </channel>
+</rss>
