@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    awesome_print (1.7.0)
     builder (3.2.2)
     byebug (9.0.6)
     coderay (1.1.1)
@@ -18,6 +19,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
   byebug
   pry
   rsolr (~> 1.0)

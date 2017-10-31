@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require "thor"
+require_relative '../lib/harvest_itc'
+
+class ITC2Solr < Thor
+  desc "harvest ITC feed file", "Harvests ITC from feed file to running Solr endpoint"
+  def harvest(itc_file)
+    HarvestLibguides.harvest(itc_file)
+  end
+end
+
+ITC2Solr.start(ARGV)
